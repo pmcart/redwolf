@@ -546,6 +546,7 @@ border: 2px solid #fff;
 .team-leader img{
 	display:block;
 	border-radius:50%;
+  width: 120%;
 }
 .team-leader ul{
 	display:block;
