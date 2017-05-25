@@ -364,6 +364,12 @@ color: #fff;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
 	-webkit-transition:all 0.3s ease-in-out;
+  min-height: 235px;
+      max-height: 235px;
+}
+
+.upp-img{
+  max-height:115px !important;
 }
 
 .Portfolio-box img:hover {
